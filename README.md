@@ -4,7 +4,7 @@ My personal notes and writeups for the **OverTheWire Natas** wargame.
 
 This repository serves as a learning journal where I document my progress, observations, techniques, and lessons learned while solving the Natas levels. The purpose is to reinforce my understanding of web security concepts and track my growth in cybersecurity.
 
-## About Natas
+## 🐞 About Natas
 
 Natas is a web security wargame created by OverTheWire. Each level introduces a vulnerability, misconfiguration, or security concept that must be understood and exploited to obtain the password for the next level.
 
@@ -14,7 +14,7 @@ Official website:
 
 https://overthewire.org/wargames/natas/
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 .
@@ -25,7 +25,7 @@ https://overthewire.org/wargames/natas/
 └── README.md
 ```
 
-## Topics Covered
+## ⚙️ Topics Covered
 
 Throughout the Natas wargame, I encounter and practice concepts such as:
 
@@ -42,7 +42,7 @@ Throughout the Natas wargame, I encounter and practice concepts such as:
 * Information disclosure
 * Web application security
 
-## Purpose
+## 🎯 Purpose
 
 This repository exists to:
 
@@ -52,6 +52,6 @@ This repository exists to:
 * Practice technical documentation
 * Build a habit of maintaining cybersecurity journals
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 These writeups are intended for educational purposes and personal learning. If you are currently working through Natas, I recommend attempting each challenge independently before consulting the corresponding notes.
