@@ -29,7 +29,7 @@ There is nothing on this page
 </body></html>
 ```
 
-**if "Not even Google will find it this time" let's check "robots.txt" that disable web crawler find it**
+**If `not even Google will find it this time` let's check `robots.txt`.**
 
 ```shell
 curl -u natas3:3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH http://natas3.natas.labs.overthewire.org/robots.txt
@@ -40,7 +40,7 @@ User-agent: *
 Disallow: /s3cr3t/
 ```
 
-**let's check this directory on the browser**
+**Let's check this directory on the browser.**
 
 ```shell
 curl -u natas3:3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt

@@ -29,8 +29,8 @@ There is nothing on this page
 </body></html>
 ```
 
-**we see that there is a directory named "/files". so let's check it in the browser**
-**we found that there is a file named "/users.txt" on it so**
+**We see that there is a directory named `/files`. So let's check it in the browser.**
+**We found that there is a file named `/users.txt` on it so.**
 
 ```shell
 curl -u natas2:TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI http://natas2.natas.labs.overthewire.org/files/users.txt
